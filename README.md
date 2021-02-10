@@ -1,2 +1,2 @@
 # RyanKentFood
-https://ryankentfood.netlify.app/index.html
+https://ryankentfood.netlify.app/food/index.html
